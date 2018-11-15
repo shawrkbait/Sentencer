@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lodash": "~2.4.1",
-    "natural": "~0.1.28",
+    "natural": "https://github.com/NaturalNode/natural.git#e79ffb36fb976cf163ea72b2d106967f014858a4",
     "articles": "~0.2.1",
     "randy": "~1.5.1"
   },
